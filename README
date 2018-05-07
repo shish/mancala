@@ -1,0 +1,2 @@
+docker build -t mancala .
+docker run -p 127.0.0.1:8811:8000 -t mancala
