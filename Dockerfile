@@ -1,4 +1,4 @@
-FROM python:3.6-stretch
+FROM python:3.6-slim-stretch
 EXPOSE 8000
 
 ENV PYTHONUNBUFFERED 1
